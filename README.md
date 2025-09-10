@@ -2,7 +2,7 @@
 <h1><p style="color:Coral;">ATWMC's UN</p></h1>
 <style>
     body {
-      background-image: url('/home/trey/Pictures/Website tests/Screenshot from 2025-09-07 17-41-02.png');
+      background-image: url('Screenshot from 2025-09-07 17-41-02.png');
       background-repeat: no-repeat;
       background-attachment: fixed;
       background-size: cover;
