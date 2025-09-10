@@ -7,3 +7,4 @@
       background-attachment: fixed;
       background-size: cover;
     }
+!/docs/assets/Screenshot 2025-09-07 17-41-02.png/
